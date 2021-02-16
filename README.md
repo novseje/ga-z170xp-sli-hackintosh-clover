@@ -1,0 +1,8 @@
+## GIGABYTE GA-Z170XP-SLI Clover EFI
+
+* GIGABYTE GA-Z170XP-SLI
+* Intel Core i7-6700K 4.0GHz/8GT/s/8MB
+* Intel® HD Graphics 530
+* Samsung SSD 950 PRO 256GB
+
+
