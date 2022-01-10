@@ -3,3 +3,4 @@
 /EFI/APPLE/*
 /EFI/BOOT/*
 
+*.DS_Store
